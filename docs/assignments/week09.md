@@ -3,12 +3,12 @@
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
 |Complete your lab's safety training|Yes|
-|Test runout, alignment, speeds, feeds, and toolpaths for your machine|Yes|
-|Document your work to the group work page |Yes|
-|and reflect on your individual page what you learned|Yes|
+|Compare the performance and development workflows for other architectures|No|
+|Document your work to the group work page and reflect on your individual page what you learned |No|
+
 | Individual assignment:|&#11015;|
-| Make (design+mill+assemble) something big|Yes|
-| Include your design files and hero shot photos of the final object|Yes|
+| Browse through the datasheet for your microcontroller|No|
+| Program a microcontroller development board to interact and communicate|No|
 
 ## Learning outcomes
 
