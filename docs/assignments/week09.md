@@ -1,4 +1,34 @@
 # 9. Embedded programming
+| Have you? | Done |
+| --------|----------|
+|[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
+|Complete your lab's safety training|Yes|
+|Test runout, alignment, speeds, feeds, and toolpaths for your machine|Yes|
+|Document your work to the group work page |Yes|
+|and reflect on your individual page what you learned|Yes|
+| Individual assignment:|&#11015;|
+| Make (design+mill+assemble) something big|Yes|
+| Include your design files and hero shot photos of the final object|Yes|
+
+## Learning outcomes
+
+| Have you? | Done |
+| --------|----------|
+|Demonstrate 2D design development for CNC production|Yes|
+|Describe workflows for CNC production|Yes|
+
+## Checklist
+
+| Have you? | Done |
+| --------|----------|
+| Linked to the group assignment page | Yes |
+| Documented how you designed your object| Yes |
+| Documented how you made your CAM-toolpath| Yes |
+| Documented how you made something BIG (setting up the machine, using fixings, testing joints, adjusting feeds and speeds, depth of cut etc.)| Yes |
+| Described problems and how you fixed them | Yes |
+| Included your design files and 'hero shot' photos of final object | Yes |
+
+S
 
 This week I worked on defining my final project idea and started to getting used to the documentation process.
 
