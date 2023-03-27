@@ -27,7 +27,7 @@
 | Described problems and how you fixed them | Yes |
 | Included your design files and 'hero shot' photos of final object | Yes |
 
-S
+
 
 This week I worked on defining my final project idea and started to getting used to the documentation process.
 
