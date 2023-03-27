@@ -1,31 +1,24 @@
-# 3. Embedded Programing
+# 3. Computer-Aided Design
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
-|Complete your lab's safety training|No|
-|Compare the performance and development workflows for other architectures|No|
-|Document your work to the group work page and reflect on your individual page what you learned |No|
-|Individual assignment:|&#11015;|
-|Browse through the datasheet for your microcontroller|No|
-|Program a microcontroller development board to interact and communicate|No|
+|Model (raster, vector, 2D, 3D, render, animate, simulate, ...) a possible final project, compress your images and videos, and post it on your class page
 
 ## Learning outcomes
 
 | Have you? | Done |
 | --------|----------|
-|Identify relevant information in a microcontroller datasheet|No|
-|Implement programming protocols|No|
+|Evaluate and select 2D and 3D software|No|
+|Demonstrate and describe processes used in modelling with 2D and 3D software|No|
 
 ## Checklist
 
 | Have you? | Done |
 | --------|----------|
-| Linked to the group assignment page | No |
-| Documented what you learned from browsing through a microcontroller datasheet| No |
-| Programmed your board to interact and communicate| No |
-| Described the programming process(es) you used| No |
-| Included your source code | No |
-| Included your 'hero shot(s)'  | No |
+| Modelled experimental objects/part of a possible project in 2D and 3D software | No |
+| Shown how you did it with words/images/screenshots| No |
+| Included your original design files| No |
+
 
 
 
