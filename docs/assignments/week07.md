@@ -2,29 +2,31 @@
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
-|Complete your lab's safety training|No|
-|Test runout, alignment, fixturing, speeds, feeds, materials and toolpaths for your machine|No|
-|Document your work to the group work page and reflect on your individual page what you learned |No|
+|Use the test equipment in your lab to observe the operation of a microcontroller circuit board (as a minimum, you should demonstrate the use of a multimeter and oscilloscope)|No|
+|Document your work on the group work page and reflect what you learned on your individual page|No|
+
 |Individual assignment:|&#11015;|
-|Browse through the datasheet for your microcontroller|No|
-|Program a microcontroller development board to interact and communicate|No|
+|Design a development board to interact and communicate with an embedded microcontroller|No|
+
 
 ## Learning outcomes
 
 | Have you? | Done |
 | --------|----------|
-|Make (design+mill+assemble) something big|No|
+|Select and use software for circuit board design|No|
+Demonstrate workflows used in circuit board design |No|
 
 ## Checklist
 
 | Have you? | Done |
 | --------|----------|
 | Linked to the group assignment page | No |
-| Documented how you designed your object (something big)| No |
-| Documented how you made your CAM-toolpath| Yes |
+|Documented how you have learned in electronics design| No |
+| Explained problems and how you fixed them| No |
 | Documented how you made something BIG (setting up the machine, using fixings, testing joints, adjusting feeds and speeds, depth of cut etc.)| No |
-| Described problems and how you fixed them | Yes |
-| Included your design files and 'hero shot' photos of final object | Yes |
+| Included original design files (Eagle, KiCad, etc.) | No |
+| Included a ‘hero shot’ | No |
+
 
 
 
