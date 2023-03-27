@@ -1,4 +1,32 @@
-# 5. Electronics production
+# 5. Emmbedded Programming
+| Have you? | Done |
+| --------|----------|
+|[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
+|Compare the performance and development workflows for other architectures|No|
+|Document your work to the group work page and reflect on your individual page what you learned|No|
+|Individual assignment:|&#11015;|
+|Browse through the datasheet for your microcontroller|No|
+|Program a microcontroller development board to interact and communicate|No|
+
+## Learning outcomes
+
+| Have you? | Done |
+| --------|----------|
+|Identify relevant information in a microcontroller datasheet|No|
+|Implement programming protocols|No|
+
+## Checklist
+
+| Have you? | Done |
+| --------|----------|
+| Linked to the group assignment page | No |
+| Documented what you learned from browsing through a microcontroller datasheet| No |
+| Programmed your board to interact and communicate| No |
+| Described the programming process(es) you used| No |
+| Included your source code | No |
+| Included your 'hero shot(s)'  | No |
+
+
 
 This week I worked on defining my final project idea and started to getting used to the documentation process.
 
