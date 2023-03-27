@@ -1,11 +1,10 @@
 
-# 3. Embedded Programing
+# 9. Electronic Production
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
-|Complete your lab's safety training|No|
 |Compare the performance and development workflows for other architectures|No|
-|Document your work to the group work page and reflect on your individual page what you learned |No|
+|Document your work to the group work page and reflect on your individual page what you learned|No|
 |Individual assignment:|&#11015;|
 |Browse through the datasheet for your microcontroller|No|
 |Program a microcontroller development board to interact and communicate|No|
