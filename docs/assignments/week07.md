@@ -1,4 +1,34 @@
 # 7. Electronics design
+| Have you? | Done |
+| --------|----------|
+|[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
+|Complete your lab's safety training|No|
+|Test runout, alignment, fixturing, speeds, feeds, materials and toolpaths for your machine|No|
+|Document your work to the group work page and reflect on your individual page what you learned |No|
+|Individual assignment:|&#11015;|
+|Browse through the datasheet for your microcontroller|No|
+|Program a microcontroller development board to interact and communicate|No|
+
+## Learning outcomes
+
+| Have you? | Done |
+| --------|----------|
+|Make (design+mill+assemble) something big|No|
+
+## Checklist
+
+| Have you? | Done |
+| --------|----------|
+| Linked to the group assignment page | No |
+| Documented how you designed your object (something big)| No |
+| Documented how you made your CAM-toolpath| Yes |
+| Documented how you made something BIG (setting up the machine, using fixings, testing joints, adjusting feeds and speeds, depth of cut etc.)| No |
+| Described problems and how you fixed them | Yes |
+| Included your design files and 'hero shot' photos of final object | Yes |
+
+
+
+This week I worked on defining my final project idea and started to getting used to the documentation process.
 
 This week I worked on defining my final project idea and started to getting used to the documentation process.
 

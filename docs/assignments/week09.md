@@ -1,4 +1,4 @@
-# 9. Embedded programming
+# 9. Computer-Controlled Cutting
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
@@ -13,19 +13,19 @@
 
 | Have you? | Done |
 | --------|----------|
-|Demonstrate 2D design development for CNC production|Yes|
-|Describe workflows for CNC production|Yes|
+|Demonstrate 2D design development for CNC production|No|
+|Describe workflows for CNC production|No|
 
 ## Checklist
 
 | Have you? | Done |
 | --------|----------|
-| Linked to the group assignment page | Yes |
-| Documented how you designed your object| Yes |
-| Documented how you made your CAM-toolpath| Yes |
-| Documented how you made something BIG (setting up the machine, using fixings, testing joints, adjusting feeds and speeds, depth of cut etc.)| Yes |
-| Described problems and how you fixed them | Yes |
-| Included your design files and 'hero shot' photos of final object | Yes |
+| Linked to the group assignment page | No |
+| Documented how you designed your object| No |
+| Documented how you made your CAM-toolpath| No |
+| Documented how you made something BIG (setting up the machine, using fixings, testing joints, adjusting feeds and speeds, depth of cut etc.)| No |
+| Described problems and how you fixed them | No |
+| Included your design files and 'hero shot' photos of final object | No |
 
 
 
