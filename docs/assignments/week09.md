@@ -1,4 +1,4 @@
-# 9. Computer-Controlled Cutting
+# 3. Embedded Programing
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
