@@ -13,19 +13,19 @@
 
 | Have you? | Done |
 | --------|----------|
-|Demonstrate 2D design development for CNC production|No|
-|Describe workflows for CNC production|No|
+|Identify relevant information in a microcontroller datasheet|No|
+|Implement programming protocols|No|
 
 ## Checklist
 
 | Have you? | Done |
 | --------|----------|
 | Linked to the group assignment page | No |
-| Documented how you designed your object| No |
-| Documented how you made your CAM-toolpath| No |
-| Documented how you made something BIG (setting up the machine, using fixings, testing joints, adjusting feeds and speeds, depth of cut etc.)| No |
-| Described problems and how you fixed them | No |
-| Included your design files and 'hero shot' photos of final object | No |
+| Documented what you learned from browsing through a microcontroller datasheet| No |
+| Programmed your board to interact and communicate| No |
+| Described the programming process(es) you used| No |
+| Included your source code | No |
+| Included your 'hero shot(s)'  | No |
 
 
 
