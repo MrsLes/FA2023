@@ -4,7 +4,6 @@
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
 |Use the test equipment in your lab to observe the operation of a microcontroller circuit board (as a minimum, you should demonstrate the use of a multimeter and oscilloscope)|No|
 |Document your work on the group work page and reflect what you learned on your individual page|No|
-
 |Individual assignment:|&#11015;|
 |Design a development board to interact and communicate with an embedded microcontroller|No|
 
