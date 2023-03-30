@@ -1,4 +1,4 @@
-# 18. Wildcard Week
+# 18. Invention, Intellectual Property and Income
 
 This week I worked on defining my final project idea and started to getting used to the documentation process.
 
