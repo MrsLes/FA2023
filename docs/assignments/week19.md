@@ -1,4 +1,4 @@
-# 19. Invention, intellectual property and income
+# 19. Project Development
 
 This week I worked on defining my final project idea and started to getting used to the documentation process.
 
