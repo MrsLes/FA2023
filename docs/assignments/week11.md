@@ -1,4 +1,4 @@
-# 11. Input devices
+# 11. IMechanical Design
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
