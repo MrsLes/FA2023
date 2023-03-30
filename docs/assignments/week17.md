@@ -1,4 +1,4 @@
-# 17. Machine design
+# 17. Applications and Implications
 
 This week I worked on defining my final project idea and started to getting used to the documentation process.
 
