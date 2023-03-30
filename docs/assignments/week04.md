@@ -1,6 +1,7 @@
 # 4. Computer controlled cutting
 
 This week I worked on defining my final project idea and started to getting used to the documentation process.
+
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
