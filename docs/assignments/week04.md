@@ -1,6 +1,36 @@
 # 4. Computer controlled cutting
 
 This week I worked on defining my final project idea and started to getting used to the documentation process.
+| Have you? | Done |
+| --------|----------|
+|[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
+|characterize your laser cutter's focus, power, speed, rate, kerf, and joint clearance|No|
+|Document your work to the group work page and reflect on your individual page what you learned|No|
+|Individual assignment:|&#11015;|
+|Design, lasercut, and document a parametric press-fit construction kit, which can be assembled in multiple ways. Account for the laser cutter kerf|No|
+|Cut something on the vinyl cutter|No|
+
+## Learning outcomes
+
+| Have you? | Done |
+| --------|----------|
+|Demonstrate and describe parametric 2D modelling processes|No|
+|Identify and explain processes involved in using the laser cutter|No|
+|Develop, evaluate and construct a parametric construction kit |No|
+|Identify and explain processes involved in using the vinyl cutter |No|
+
+
+## Checklist
+
+| Have you? | Done |
+| --------|----------|
+| Linked to the group assignment page | No |
+| Explained how you created your parametric design| No |
+| Documented how you made your press-fit kit No |
+| Documented how you made something with the vinyl cutter| No |
+| Included your original design files| No |
+| Included 'hero shot(s)' of your result  | No |
+
 
 ## Research
 
