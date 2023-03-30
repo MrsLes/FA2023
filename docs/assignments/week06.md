@@ -2,25 +2,25 @@
 
 This week I worked on defining my final project idea and started to getting used to the documentation process.
 
-This week I worked on defining my final project idea and started to getting used to the documentation process.
+
 
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
-|Characterize your laser cutter's focus, power, speed, rate, kerf, and joint clearance|No|
-|Document your work to the group work page and reflect on your individual page what you learned|No|
+|CTest the design rules for your 3D printer(s)|No|
+|Document your work on the group work page and reflect on your individual page what you learned about characteristics of your printer(s)|No|
 |Individual assignment:|&#11015;|
-|Design, lasercut, and document a parametric press-fit construction kit, which can be assembled in multiple ways. Account for the laser cutter kerf|No|
-|Cut something on the vinyl cutter|No|
+|Design and 3D print an object (small, few cm3, limited by printer time) that could not be easily made subtractively|No|
+|3D scan an object (and optionally print it) |No|
 
 ## Learning outcomes
 
 | Have you? | Done |
 | --------|----------|
-|Demonstrate and describe parametric 2D modelling processes|No|
-|Identify and explain processes involved in using the laser cutter|No|
-|Develop, evaluate and construct a parametric construction kit |No|
-|Identify and explain processes involved in using the vinyl cutter |No|
+|Identify the advantages and limitations of 3D printing|No|
+|Apply design methods and production processes to show your understanding of 3D printing|No|
+|Demonstrate how scanning technology can be used to digitize object(s) |No|
+
 
 
 ## Checklist
@@ -28,11 +28,11 @@ This week I worked on defining my final project idea and started to getting used
 | Have you? | Done |
 | --------|----------|
 | Linked to the group assignment page | No |
-| Explained how you created your parametric design| No |
-| Documented how you made your press-fit kit No |
-| Documented how you made something with the vinyl cutter| No |
-| Included your original design files| No |
-| Included 'hero shot(s)' of your result  | No |
+| Explained what you learned from testing the 3D printers| No |
+| Documented how you designed and 3D printed your object and explained why it could not be easily made subtractively| No |
+| Documented how you scanned ab object| No |
+| Included your original design files for 3D printing| No |
+| Included your 'hero shot(s)'  | No |
 
 
 ## Research
