@@ -7,7 +7,7 @@ This week I worked on defining my final project idea and started to getting used
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
-|CTest the design rules for your 3D printer(s)|No|
+|Test the design rules for your 3D printer(s)|No|
 |Document your work on the group work page and reflect on your individual page what you learned about characteristics of your printer(s)|No|
 |Individual assignment:|&#11015;|
 |Design and 3D print an object (small, few cm3, limited by printer time) that could not be easily made subtractively|No|
