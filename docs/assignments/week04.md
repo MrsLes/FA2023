@@ -4,7 +4,7 @@ This week I worked on defining my final project idea and started to getting used
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
-|characterize your laser cutter's focus, power, speed, rate, kerf, and joint clearance|No|
+|Characterize your laser cutter's focus, power, speed, rate, kerf, and joint clearance|No|
 |Document your work to the group work page and reflect on your individual page what you learned|No|
 |Individual assignment:|&#11015;|
 |Design, lasercut, and document a parametric press-fit construction kit, which can be assembled in multiple ways. Account for the laser cutter kerf|No|
