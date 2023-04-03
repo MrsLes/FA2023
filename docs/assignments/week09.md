@@ -3,29 +3,28 @@
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
-|Compare the performance and development workflows for other architectures|No|
+|Characterize the design rules for your in-house PCB production process: document feeds, speeds, plunge rate, depth of cut (traces and outline) and tooling|No|
 |Document your work to the group work page and reflect on your individual page what you learned|No|
 |Individual assignment:|&#11015;|
-|Browse through the datasheet for your microcontroller|No|
-|Program a microcontroller development board to interact and communicate|No|
+|Make and test the development board that you designed to interact and communicate with an embedded microcontroller|No|
 
 ## Learning outcomes
 
 | Have you? | Done |
 | --------|----------|
-|Identify relevant information in a microcontroller datasheet|No|
-|Implement programming protocols|No|
+|Described the process of tool-path generation, milling, stuffing, de-bugging and programming|No|
+|Demonstrate correct workflows and identify areas for improvement if required|No|
 
 ## Checklist
 
 | Have you? | Done |
 | --------|----------|
 | Linked to the group assignment page | No |
-| Documented what you learned from browsing through a microcontroller datasheet| No |
-| Programmed your board to interact and communicate| No |
-| Described the programming process(es) you used| No |
-| Included your source code | No |
-| Included your 'hero shot(s)'  | No |
+| Documented how you made (mill, stuff, solder) the board| No |
+| Documented that your board is functional| No |
+| Explained any problems and how you fixed them| No |
+| Uploaded your source code | No |
+| Included your 'hero shot(s) of your board  | No |
 
 
 
