@@ -2,11 +2,11 @@
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
-|Compare the performance and development workflows for other architectures|No|
-|Document your work to the group work page and reflect on your individual page what you learned|No|
+|Measure the power consumption of an output device|No|
+|Document your work on the group work page and reflect on your individual page what you learned|No|
 |Individual assignment:|&#11015;|
-|Browse through the datasheet for your microcontroller|No|
-|Program a microcontroller development board to interact and communicate|No|
+|Add an output device to a microcontroller board you've designed and program it to do something|No|
+
 
 ## Learning outcomes
 
