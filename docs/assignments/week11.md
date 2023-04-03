@@ -2,29 +2,40 @@
 | Have you? | Done |
 | --------|----------|
 |[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
-|Compare the performance and development workflows for other architectures|No|
-|Document your work to the group work page and reflect on your individual page what you learned|No|
+|Design a machine that includes mechanism + actuation + automation + application|No|
+|Build the mechanical parts and operate it manually|No|
+|Document the group project|No|
 |Individual assignment:|&#11015;|
-|Browse through the datasheet for your microcontroller|No|
-|Program a microcontroller development board to interact and communicate|No|
+|Document your individual contribution|No|
+
+## Machine Design Part (2)
+|[Group assignment](https://fabacademy.org/2022/labs/incitefocus/group%20projects/computer-controlled-machining/)|&#11015;|
+|Actuate and automate your machine|No|
+|Document the group project|No|
+|Individual assignment:|&#11015;|
+|Document your individual contribution|No|
 
 ## Learning outcomes
 
 | Have you? | Done |
 | --------|----------|
-|Identify relevant information in a microcontroller datasheet|No|
-|Implement programming protocols|No|
+|Work and communicate effectively in a team and independentlye|No|
+|Design, plan and build a system|No|
+|Analyse and solve technical problems|No|
+|Recognise opportunities for improvements in the design|No|
 
 ## Checklist
 
 | Have you? | Done |
 | --------|----------|
-| Linked to the group assignment page | No |
-| Documented what you learned from browsing through a microcontroller datasheet| No |
-| Programmed your board to interact and communicate| No |
-| Described the programming process(es) you used| No |
-| Included your source code | No |
-| Included your 'hero shot(s)'  | No |
+| Documented the machine building process to the group page | No |
+| Documented your individual contribution to this project on your own website| No |
+| Linked to the group page from your individual page as well as from group page to your individual pages| No |
+| Shown how your team planned and executed the project (Group page) | No |
+| Described problems and how the team solved them (Group page) | No |
+| Listed future development opportunities for this project (Group page)| No |
+| Included your design files (Group page)| No |
+| ou need to present your machine globally and/or include an aprox. 1 min video (1920x1080 HTML5 MP4) + slide (1920x1080 PNG) (Group page)  | No |
 
 
 
