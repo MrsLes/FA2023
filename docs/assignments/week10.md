@@ -12,18 +12,19 @@
 
 | Have you? | Done |
 | --------|----------|
-|Identify relevant information in a microcontroller datasheet|No|
-|Implement programming protocols|No|
+|Demonstrate workflows used in controlling an output device(s) with MCU board you have designed|No|
 
 ## Checklist
 
 | Have you? | Done |
 | --------|----------|
 | Linked to the group assignment page | No |
-| Documented what you learned from browsing through a microcontroller datasheet| No |
-| Programmed your board to interact and communicate| No |
-| Described the programming process(es) you used| No |
-| Included your source code | No |
+| Documented how you determined power consumption of an output device with your group| No |
+| Documented what you learned from interfacing output device(s) to microcontroller and controlling the device(s)| No |
+| Documented your design and fabrication process or linked to the board you made in a previous assignment| No |
+| Explained the programming process/es you used | No |
+| Explained any problems you encountered and how you fixed them| No |
+ | Included original design files and source code| No |
 | Included your 'hero shot(s)'  | No |
 
 
