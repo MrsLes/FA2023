@@ -5,7 +5,7 @@
 |Design a machine that includes mechanism + actuation + automation + application|No|
 |Build the mechanical parts and operate it manually|No|
 |Document the group project|No|
-|Individual assignment:|&#11015;|
+|Individual assignment|&#11015;|
 |Document your individual contribution|No|
 
 ## Machine Design Part (2)
