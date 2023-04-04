@@ -2,13 +2,17 @@
 
 ![](../images/avatar-photo.jpg)
 
-Hi! I am Emma Brewer. I am an art director & graphic designer based in New York City working on branding, visual identities, editorial design and web design.
+Hi, I am Leslie Samelson. 
+
+I just retired from teaching Science to 12 - 14 year olds for 34 years. Being the yougest in may family of six, I have many interests.  My coaching experiences include gymnastics, volleyball, and cross counrty.  Being passionate about nature so I enjoy hiking, camping, SCUBA diving, canoeing and fishing.
+
+Though I enjoy learning, technology is not my forte'. This adventure will be taking me totally out of my comfort zone. I am willing to be vunerable, because my goal is to be a pioneer in this city to create technical craftspeople, through a Fab Lab node.
 
 Visit this website to see my work!
 
 ## My background
 
-I was born in a nice city called..
+I live in Michigan City, Indiana USA. I was fortunate to be born in this city that resides on the southern shores of Lake Michigan (60 miles due West of Chicago, 36 miles across the lake). This city is nestled between National and State Parks with dunes, trails and wetlands.
 
 ## Previous work
 
