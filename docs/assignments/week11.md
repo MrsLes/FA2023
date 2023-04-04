@@ -19,7 +19,7 @@
 
 | Have you? | Done |
 | --------|----------|
-|Work and communicate effectively in a team and independentlye|No|
+|Work and communicate effectively in a team and independently|No|
 |Design, plan and build a system|No|
 |Analyse and solve technical problems|No|
 |Recognise opportunities for improvements in the design|No|
