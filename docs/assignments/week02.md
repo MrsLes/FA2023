@@ -2,6 +2,33 @@
 
 This week I worked on defining my final project idea and started to getting used to the documentation process.
 
+| Have you? | Done |
+| --------|----------|
+|Individual assignment:|&#11015;|
+|Work through a git tutorial |Yes|
+|Build a personal website describing you and your final project. Refer to the lecture material for examples |No|
+|Upload final project sketch and personal website to the class archive |No|
+
+## Learning outcomes
+
+| Have you? | Done |
+| --------|----------|
+|Communicate an initial project proposal |No|
+|Identify and utilise version control protocol(s)|Yes|
+|Explore and use website development tool(s) |Yes|
+
+| Have you? | Done |
+| --------|----------|
+|Sketched your final project idea(s) |Yes|
+|Described briefly what it will do and who will use it |No|
+|Made a website and described how you did it |No|
+|Created a section about yourself on that website |No|
+|Added a page with a sketch and description of your final project idea(s) |No|
+|Documented steps for setting up your Git repository and adding files to it |No|
+|Pushed to your class GitLab repository |No|
+|Signed and uploaded Student Agreement N0|
+
+
 ## Research
 
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
