@@ -35,7 +35,7 @@
 | Described problems and how the team solved them (Group page) | No |
 | Listed future development opportunities for this project (Group page)| No |
 | Included your design files (Group page)| No |
-| ou need to present your machine globally and/or include an aprox. 1 min video (1920x1080 HTML5 MP4) + slide (1920x1080 PNG) (Group page)  | No |
+| Included your 'hero shot(s)'  | No |
 
 
 
