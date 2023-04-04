@@ -4,7 +4,7 @@
 
 Hi, I am Leslie Samelson. 
 
-I just retired from teaching Science to 12 - 14 year olds for 34 years. Being the yougest in may family of six, I have many interests.  My coaching experiences include gymnastics, volleyball, and cross counrty.  Being passionate about nature so I enjoy hiking, camping, SCUBA diving, canoeing and fishing.
+I just retired from teaching Science to 12 - 14 year olds for 34 years. Being the yougest in my family of six, I have many interests.  My coaching experiences include gymnastics, volleyball, and cross counrty.  Being passionate about nature so I enjoy hiking, camping, SCUBA diving, canoeing and fishing.
 
 Though I enjoy learning, technology is not my forte'. This adventure will be taking me totally out of my comfort zone. I am willing to be vunerable, because my goal is to be a pioneer in this city to create technical craftspeople, through a Fab Lab node.
 
