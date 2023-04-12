@@ -6,8 +6,8 @@ This week I worked on defining my final project idea and started to getting used
 | --------|----------|
 |Individual assignment:|&#11015;|
 |Work through a git tutorial |Yes|
-|Build a personal website describing you and your final project. Refer to the lecture material for examples |No|
-|Upload final project sketch and personal website to the class archive |No|
+|Build a personal website describing you and your final project. Refer to the lecture material for examples |Yes|
+|Upload final project sketch and personal website to the class archive |Yes|
 
 ## Learning outcomes
 
@@ -31,9 +31,9 @@ This week I worked on defining my final project idea and started to getting used
 
 ## Research
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+"My final project is to create a robot that picks up Pickle -balls. I enjoy working out in the morning at our YMCA.  The indoor tennis court is diretly beside the pickle-ball court.  One day I saw my former P.E. insttructor practicing serves, and I thought it would be convenient for the YMCA to have a robot collect the balls on the court."
 
-> "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+> "FIRST competitions often have middle and high school students create a robot to gather and shoot items, so I had a starting point for research.  proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 ## Useful links
 
