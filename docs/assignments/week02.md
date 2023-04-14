@@ -33,7 +33,7 @@ This week I worked on defining my final project idea and started to getting used
 
 "My final project is to create a robot that picks up Pickle -balls. I enjoy working out in the morning at our YMCA.  The indoor tennis court is diretly beside the pickle-ball court.  One day I saw my former P.E. insttructor practicing serves, and I thought it would be convenient for the YMCA to have a robot collect the balls on the court."
 
-> "FIRST competitions often have middle and high school students create a robot to gather and shoot items, so I had a starting point for research.  proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+> "FIRST competitions often have middle and high school students create a robot to gather and shoot items, so I had a starting point for research."
 
 ## Useful links
 
